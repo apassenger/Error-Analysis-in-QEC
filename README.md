@@ -7,7 +7,8 @@ Although one- and two-qubit fidelities may be seems close enough, when we compar
 We have created a code repository where we share software that takes experimental process matrices and performs the following:
 
     Calculates the real error rates for each individual quantum gate.
-    Calculates the perfection rate and the total error rate for the parity check circuit according to the formula (S.26) in the paper, using the error rates from step 1.
+    Calculates the perfection rate and the total error rate for the parity check circuit according to the 
+formula (S.26) in the paper, using the error rates from step 1. 
 
 We demonstrate numerically that relying solely on single- and two-qubit fidelities is not sufficient for having self-confidence in fault-tolerant quantum computing. To use this code for your system, you will need to provide your own experimental and ideal process matrices. Please feel free to contact us with any further questions, and if you use the code, please cite our paper and software.
 For software:
