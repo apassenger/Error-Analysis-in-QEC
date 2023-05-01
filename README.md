@@ -26,6 +26,8 @@ year = {2023}
 }
 For paper:
 (citation will be added)
+
+
 This project shows how to find the real error rate for individual gates from experiemental data. 
 
 Then, the perfection rate for the XX parity check circuit is computed. 
