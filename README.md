@@ -13,7 +13,9 @@ We demonstrate numerically that relying solely on single- and two-qubit fideliti
 For software:
 
 Üstün, G., Morello, A., & Devitt, S. (2023). Error Analysis in the context of Quantum Error Correction (Version 1.0.0) [Computer software]. https://github.com/apassenger/Error-Analysis-in-QEC
+
 or
+
 @software{Ustun_Error_Analysis_in_2023,
 author = {Üstün, Gözde and Morello, Andrea and Devitt, Simon},
 month = apr,
