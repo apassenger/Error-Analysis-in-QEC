@@ -28,9 +28,7 @@ year = {2023}
 }
 
 
-For paper:
-(citation will be added)
-
+For paper: https://arxiv.org/abs/2306.08849
 
 This project shows how to find the real error rate for individual gates from experiemental data. 
 
