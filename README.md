@@ -13,7 +13,19 @@ We have created a code repository where we share software that takes experimenta
 
 We demonstrate numerically that relying solely on single- and two-qubit fidelities is not sufficient for having self-confidence in fault-tolerant quantum computing. To use this code for your system, you will need to provide your own experimental and ideal process matrices. Please feel free to contact us with any further questions, and if you use the code, please cite our paper and software.
 For paper:
-
+@article{Üstün_2024,
+doi = {10.1088/2058-9565/ad473c},
+url = {https://dx.doi.org/10.1088/2058-9565/ad473c},
+year = {2024},
+month = {may},
+publisher = {IOP Publishing},
+volume = {9},
+number = {3},
+pages = {035037},
+author = {Gözde Üstün and Andrea Morello and Simon Devitt},
+title = {Single-step parity check gate set for quantum error correction},
+journal = {Quantum Science and Technology}
+}
 @misc{üstün2023singlestep,
       title={Single-Step Parity Check Gate Set for Quantum Error Correction}, 
       author={Gözde Üstün and Andrea Morello and Simon Devitt},
